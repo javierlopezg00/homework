@@ -1,0 +1,23 @@
+$primary-color: rgb(66, 66, 66);
+$fontColor : white;
+
+.gameBox{
+    background-color: $primary-color;
+    text-align: center;
+    margin: 2% 3.5%;
+    width: 25%;
+    float: left;
+    padding: 0.6%;
+    border-radius: 5%;
+}
+
+.gameTitle{
+    text-transform: uppercase;
+    color: $fontColor;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#col{
+    background-color: $primary-color;
+    color: $fontColor;
+}
