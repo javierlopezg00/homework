@@ -5,7 +5,7 @@ var juego1 ={
 };
 
 var juego2 ={
-    name: "Valorant",
+    name: "Tic tac Toe",
     img: "../../src/img/2.jpg",
     description :"Prepare for an adventure of limitless possibilities as you build, mine, battle mobs, and explore the ever-changing Minecraft landscape."
 };
