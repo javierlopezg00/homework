@@ -1,5 +1,5 @@
 var juego1 ={
-    name: "Minecraft",
+    name: "GTA V",
     img: "../../src/img/1.jpg",
     description :"Prepare for an adventure of limitless possibilities as you build, mine, battle mobs, and explore the ever-changing Minecraft landscape."
 };
